@@ -1,0 +1,40 @@
+# 🚀 My First PySide6 Application
+
+Bienvenue sur mon premier projet réalisé avec **Python et PySide6** !
+
+## 🛠️ Utilité
+
+Soyons honnêtes : cette application ne fait rien de particulièrement extraordinaire pour le moment.
+
+Elle permet de saisir des informations et de les afficher dans le terminal.
+
+Ce projet constitue avant tout une première expérience pratique dans le développement d'applications de bureau avec Python.
+
+## 🔮 Mises à jour à venir
+
+Je prévois de faire évoluer cette application pour qu'elle puisse communiquer directement avec GitHub.
+
+L'objectif est notamment de :
+
+- Ouvrir GitHub directement depuis l'application.
+- Permettre à l'utilisateur de communiquer avec son compte GitHub.
+- Transmettre les informations saisies à GitHub afin de les ajouter à son compte.
+
+Ce ne sont que les premières idées. Le projet est encore à ses débuts !
+
+## ⚙️ Technologies utilisées
+
+- Python
+- PySide6
+- Qt Designer
+- `pyside6-uic`
+
+## 💭 Un aveu...
+
+Cette première application m'a permis de découvrir et de manipuler de nombreux nouveaux objets, composants et concepts.
+
+Elle est loin d'être parfaite, elle ne fait pas encore grand-chose, mais elle représente une étape importante dans mon apprentissage.
+
+Ce n'est que le début !
+
+**C'était Nexo_prim !** 🚀
